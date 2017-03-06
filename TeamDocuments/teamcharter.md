@@ -10,12 +10,12 @@
 
 ###Individual Goals
 * Ariana: My goal for this project is to learn more about coding and writing in markdown. I'm interested in learning more about technical writing so I can develop a new skillset that may benefit me throughout my career.
-* Landry: 
+* Landry: My goal for this project is to broaden my understanding of coding.  I took some computer coding classes in high school but never actively pursued it any further.  I am interested to learn more and possibly pursue a career in it.
 * Ross:
 
 ###Individual Commitment
 * Ariana: As project manager, I will remain organized and on task. I will do the best work that I am capable of and volunteer for completing tasks as long as work is evenly distributed. I will be doing the majority of my work M T and TH afternoons and am available most evenings if a group meeting is necessary. 
-* Landry:
+* Landry: For this project, I intend to do all the work that is required of me in a timely and professional manner.  I intend to collaborate well with my team and divide work fairly and evenly.  Because the majority of my classes are online this semester, my work schedule is extremely flexible and am able to work most hours of the day.
 * Ross: 
 
 ###Other Concerns
