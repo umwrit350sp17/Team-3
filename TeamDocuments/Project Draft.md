@@ -25,8 +25,7 @@ You can record and store audio in evernote.  With audio recordings, you can reco
 2. Click the microphone button from the formatting bar. You may need to click the double arrows at the end of the toolbar to reveal more options.
 3. Click Record to start recording. You can type and record at the same time, but if you leave that note the recording will stop and save. A red dot will appear on the Evernote menu bar icon to indicate that a note is currently recording.
 4. When you’re done, click Save to stop recording and save the audio to your note.
-## 2.3 
-## 2.4 - Evernote Tips and Tricks
+## 2.3 - Evernote Tips and Tricks
 ### Clip the Web
 [Evernote Web Clipper](https://evernote.com/webclipper/) is a browser extension for Chrome, Firefox, Opera, Safari, and becomes part of IE when you install Evernote for Windows. With it, you can capture everything you see online, from an entire page to just one little section or picture.
 A menu will appear from the right and provide several options, from changing the notebook (all notes go in a notebook on Evernote) to inserting arrows, highlights or annotations. All it takes is a click on the Evernote icon (the red arrow points to it in the image above).
