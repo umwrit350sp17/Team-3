@@ -1,3 +1,11 @@
+# 1. Signing Up For Evernote
+Evernote is a service that allows you to write and store school work online.  Signing up is simple and easy.
+## 1.1 - Creating an Account 
+To sign up for Evernote, navigate to the [Evernote registration page](https://www.evernote.com/Registration.action) in your web browser.
+![Here is what the login screen looks like](Evernotelogin.png)
+
+
+
 # 3. Creating Notebooks
 You can save your school work, notes, information and schedules by using Evernote as a digital binder. Evernote allows you to keep your notes from a specific class in the same notebook and can even group notebooks together by creating a notebook stack.
 ## 3.1 – Organizing notes into notebooks
