@@ -1,11 +1,45 @@
 # 1. Signing Up For Evernote
 Evernote is a service that allows you to write and store school work online on multiple devices.  Signing up is simple and easy.
 ## 1.1 - Creating an Account 
-1. To sign up for Evernote, navigate to the [Evernote registration page](https://www.evernote.com/Registration.action) in your web browser. ![Here is what the login screen looks like](evernotelogin.png)
+1. To sign up for Evernote, navigate to the [Evernote registration page](https://www.evernote.com/Registration.action) in your web browser. ![Here is what the login screen looks like](https://github.com/umwrit350sp17/Team-3/blob/master/Screen%20Shot%202017-03-26%20at%203.07.39%20PM.png)
 2. You can either choose to create an account with an existing Google profile or just simply use your email address.
-
-
-
+## 1.2 - Linking Accounts
+If you have more than one Evernote account and would like to transfer notes from one account to the othe, follow these steps:
+1. From any Mac or Windows desktop computer, log into the account that contains notes you'd like to transfer to another account.
+2. Export your notebooks as Evernote XML (.enex) files from this account and remember which folder or directory you’ve saved it to. All your note contents and tags are saved to this ENEX file.
+*Note:* Notebook stacks are tied to individual accounts and cannot be exported to another account. Once you’ve imported all your notebooks into your secondary account, you’ll need to reorganize them into stacks.
+3. Sign out of the account you've just exported notes from and sign into a secondary account.
+4. Import the ENEX (.enex) files into the secondary account.
+## 1.3 - Syncing Notes to Mobile Accounts
+1. To sync your notes from the computer to your phone, download the Evernote app first and launch it on your phone, Then, sign in using the username and password you use when you log in to Evernote on your computer.
+2. To sync your content, you can tap the three dots on the main page. A pop-up menu will appear. Tap Sync. You can also tap the elephant icon on the upper left corner of your screen to access the main menu. Then find the sync icon and tap it. Wait for a few seconds and you will see everything you have saved in Evernote on your desktop.
+3. If you have created and saved a note or notebook in Evernote on your phone, it will automatically sync to your Evernote account on your computer. So every time you log in to Evernote using your desktop, you will be able to immediately see everything you saved in Evernote on your phone.
+# 2. Creating Notes
+A note is any piece of information you want to save for later.  You can type notes or even record audio notes.  
+## 2.1 - Creating Notes on a Web Browser
+1. To create a new note on the web, simply click the plus sighn button from the sidebar ![click the plus sign button from the sidebar](https://github.com/umwrit350sp17/Team-3/blob/master/web-new-note-button.jpg)
+2. From there, you can title your not and add content.
+## 2.2 - Creating Audio Notes
+You can record and store audio in evernote.  With audio recordings, you can record and recall audio from things like lectures or speeches.
+1. To create an audio note, first create a new note or open an existing note.
+2. Click the microphone button from the formatting bar. You may need to click the double arrows at the end of the toolbar to reveal more options.
+3. Click Record to start recording. You can type and record at the same time, but if you leave that note the recording will stop and save. A red dot will appear on the Evernote menu bar icon to indicate that a note is currently recording.
+4. When you’re done, click Save to stop recording and save the audio to your note.
+## 2.3 
+## 2.4 - Evernote Tips and Tricks
+### Clip the Web
+[Evernote Web Clipper](https://evernote.com/webclipper/) is a browser extension for Chrome, Firefox, Opera, Safari, and becomes part of IE when you install Evernote for Windows. With it, you can capture everything you see online, from an entire page to just one little section or picture.
+A menu will appear from the right and provide several options, from changing the notebook (all notes go in a notebook on Evernote) to inserting arrows, highlights or annotations. All it takes is a click on the Evernote icon (the red arrow points to it in the image above).
+### Add Reminders
+Any note filed in Evernote can have a reminder. Click the alarm clock icon over the note in the web or desktop interface, and you'll get a drop-down calendar, with options to set a reminder tomorrow, in a week, or any time you'd like to go back and reference it.
+### Make a Task List
+Create a new note and look on the text toolbar above it (or below on the mobile apps) for the Check Box tool. Insert one and you'll be on your way to creating a task list.
+### Enabling Offline Notebook Access
+*Note:* Only available for Evernote Plus, Premium, and Business Customers.
+To enable offline notebook access:
+1. Open the Account tab
+2. Select Settings > Notebooks > Offline Notebooks
+3. Select some or all notebooks to be downloaded for offline use
 # 3. Creating Notebooks
 You can save your school work, notes, information and schedules by using Evernote as a digital binder. Evernote allows you to keep your notes from a specific class in the same notebook and can even group notebooks together by creating a notebook stack.
 ## 3.1 – Organizing notes into notebooks
