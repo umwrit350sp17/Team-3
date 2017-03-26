@@ -1,8 +1,8 @@
 # 1. Signing Up For Evernote
 Evernote is a service that allows you to write and store school work online on multiple devices.  Signing up is simple and easy.
 ## 1.1 - Creating an Account 
-To sign up for Evernote, navigate to the [Evernote registration page](https://www.evernote.com/Registration.action) in your web browser.
-![Here is what the login screen looks like](Evernotelogin.png)
+1. To sign up for Evernote, navigate to the [Evernote registration page](https://www.evernote.com/Registration.action) in your web browser. ![Here is what the login screen looks like](evernotelogin.png)
+2. You can either choose to create an account with an existing Google profile or just simply use your email address.
 
 
 
