@@ -107,28 +107,29 @@ Evernote provides tools to add notes to PDF and Word documents. Highlight import
 #### [Example of An Annotated PDF Document](https://www.evernote.com/shard/s308/sh/e1c0194e-6d75-4d2d-a2a9-6dd424612fa6/8bca2752519209a3)
 
 ## 6.1 Installing web clipper-
- You can download web clipper straight through Evernote
-Go to https://evernote.com/webclipper/
-Depending on your type of computer, there will be a different version of Web Clipper. Download the appropriate one
+1. You can download web clipper straight through Evernote
+2. Go to https://evernote.com/webclipper/
+3. Depending on your type of computer, there will be a different version of Web Clipper. Download the appropriate one
 ##6.2 How to use web clipper- 
-After you have downloaded Web Clipper, open it to begin clipping
-Select clip type or web page sections and decide which sections you want clipped
-Annotate information that you would like to be highlighted
+1. After you have downloaded Web Clipper, open it to begin clipping
+2. Select clip type or web page sections and decide which sections you want clipped
+3. Annotate information that you would like to be highlighted
 
 ## 7.1 Benefits of Using Evernote
-Evernote is the perfect online notetaker
-It is accessible from multiple devices
-Its layout is so effective and user friendly that users will be able to organize their electronic notes and thoughts in a more efficient manner than ever
+1. Evernote is the perfect online notetaker
+2. It is accessible from multiple devices
+3. Its layout is so effective and user friendly that users will be able to organize their electronic notes and thoughts in a more efficient manner than ever
 
 
 ## 7.2 Evernote premium-
-Evernote premium allows users to annotate PDF documents, which for many situations, may be absolutely crucial. 
-Evernote premium allows users to access their accumulated notebooks while they are offline. Although this sounds like a simple feature, it could be extremely important for many users. 
-The monthly data upload limit for users increases dramatically with Evernote Plus. 
+1. Evernote premium allows users to annotate PDF documents, which for many situations, may be absolutely crucial. 
+2. Evernote premium allows users to access their accumulated notebooks while they are offline. Although this sounds like a simple feature, it could be extremely important for many users. 
+3. The monthly data upload limit for users increases dramatically with Evernote Plus. 
 
 ## 7.3 open source replacements to Evernote- 
-There are several similar online services to Evernote.
-Paperwork could be the most similar to Evernote, as far as user friendliness and interface. However, there are many programs that have been unique in successful, 
+1. There are several similar online services to Evernote.
+2. Paperwork could be the most similar to Evernote, as far as user friendliness and interface. 
+3. However, there are many programs that have been unique in successful, 
        including Laverna, Permanote, brainstormer, and many more
       
 ** For more information about alternative sources:     https://opensource.com/alternatives/evernote
